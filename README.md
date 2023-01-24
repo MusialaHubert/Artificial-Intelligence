@@ -1,5 +1,5 @@
 # **Artificial Intelligence**
-This repository contains four projects covering different areas of Artificial Intelligence. 
+This repository contains three projects covering different areas of Artificial Intelligence. 
 
 ## **Genetic Algorithm**
 The aim of implementing the project was to get acquainted with the optimization problem based on an example of Genetic Algorithm. The presented problem applies to
